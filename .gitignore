@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data
+weather_data.csv
+*.log
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
